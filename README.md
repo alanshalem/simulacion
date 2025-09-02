@@ -130,4 +130,6 @@ modulo_5/
 ## Créditos y Licencia
 
 Material educativo para el curso de simulación numérica UDEMM.  
-Imágenes y estilos incluidos para
+Imágenes y estilos incluidos para fines didácticos.
+
+---
